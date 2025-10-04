@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Builds
+/dist/
+/build/
+
+# Vite cache and temp
+/.vite/
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.*.local
+
+# Editors/OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tests/coverage
+coverage/
+
+# Deploy providers
+.vercel/
+.netlify/
+
+# Misc
+*.swp
+*.tmp
+vite.svg
