@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Monochrome TryHackMe-style cloud + lock mark. Inherits currentColor to match theme. -->
+  <path d="M7 11a4 4 0 0 1 7.874-.8A3.5 3.5 0 1 1 17.5 17H7a3 3 0 1 1 0-6z" fill="currentColor" opacity="0.85"/>
+  <path d="M12 12.25c1.657 0 3 1.343 3 3V18h-6v-2.75c0-1.657 1.343-3 3-3zm-1 2.75V16h2v-1a1 1 0 1 0-2 0z" fill="currentColor"/>
+</svg>
