@@ -26,10 +26,10 @@ export default function Experience() {
       title: 'GSNA Solutions – Cybersecurity Intern',
       period: 'Juil–Août 2025',
       bullets: [
-        "Développement d’un prototype de pentesting assisté par IA (Gemini, DeepSeek).",
-        "Pipelines Python automatisés (Nmap, Nikto, Gobuster).",
+        "Developed an AI-assisted pentesting prototype (Gemini, DeepSeek).",
+        "Automated Python pipelines (Nmap, Nikto, Gobuster).",
         "CTI analysis (alert triage, risk assessment, reporting).",
-        "Contribution aux audits ISO 27001.",
+        "Contributed to ISO 27001 audits.",
       ],
       tools: 'Python, Kali Linux, Nmap, Nikto, Gobuster, Metasploit, Gemini, DeepSeek, VirusTotal, ISO 27001 tools'
     },

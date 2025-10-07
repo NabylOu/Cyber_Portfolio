@@ -10,7 +10,7 @@ export default function About() {
         transition={{ duration: 0.6 }}
       >
         <p className="section-subtitle">About Me</p>
-        <h2 className="section-title">Junior Cybersecurity Analyst | Passionate About SOC, Threat Hunting & Incident Response</h2>
+        <h2 className="section-title">Junior Cybersecurity Analyst & Engineer  | Passionate About SOC, Threat Hunting & Incident Response</h2>
         <div className="prose prose-invert max-w-none text-white/80 mx-auto md:mx-0">
           <p>
 I am a Junior Cybersecurity Analyst specializing in Security Operations, Threat Detection, and Incident Response. <strong>I am currently seeking a PFE internship</strong> to apply my skills in real-world cybersecurity environments and contribute to security operations, incident analysis, and threat detection workflows.

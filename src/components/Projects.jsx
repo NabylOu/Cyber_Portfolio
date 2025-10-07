@@ -191,6 +191,21 @@ export default function Projects() {
 
   const projects = [
     {
+      title: 'Network Traffic Analysis – PCAP Investigation (2025)',
+      period: '2025',
+      summary: 'Performed a deep analysis of captured network traffic using tcpdump and Wireshark to detect anomalies, identify IoCs, and correlate security incidents. Focused on network forensics and SOC investigation techniques.',
+      overview: 'In this project, I conducted in-depth network traffic analysis on PCAP files to investigate suspicious activities and uncover attacker behaviors at the packet level. Using tcpdump for traffic capture and Wireshark for visualization and protocol inspection, I was able to identify indicators of compromise (IoCs), analyze communication patterns, and correlate them with potential intrusion scenarios. This project strengthened my skills in network forensics, SOC analysis, and understanding of TCP/IP layers in real attack simulations.',
+      tools: [
+        'tcpdump',
+        'Wireshark',
+        'Network Analysis',
+        'TCP/IP Protocols',
+        'SOC Investigation',
+        'IoC Identification',
+      ],
+      images: [],
+    },
+    {
       title: 'SOC Automation Lab Project',
       period: 'Sept 2025',
       summary: 'Developed a complete SOC automation lab integrating Wazuh, Shuffle, TheHive, and VirusTotal to automate detection, enrichment, and response. Demonstrates SIEM+SOAR real-time incident handling.',
@@ -384,7 +399,7 @@ export default function Projects() {
   return (
     <div>
       <p className="section-subtitle">Projects</p>
-      <h2 className="section-title">Portfolio</h2>
+      <h2 className="section-title">Projects</h2>
       <div className="grid md:grid-cols-2 gap-6">
         {projects.map((proj, i) => (
           <ProjectCard
